@@ -1,0 +1,88 @@
+  @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+  @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+
+
+body.login{
+    background-color: #000; 
+    font-family: 'Inter', sans-serif;
+}
+.login section{
+    color: #fff;
+}
+
+section{
+
+     width: 1200px;
+     margin: 0 auto;
+
+}
+
+.div-80{
+    width: 60%;
+    float: left;
+    text-align: center;
+    background-image: url('img/bglogin.png');
+    padding: 310px 0;
+    padding-top: 130px;
+}
+
+.div-40{
+  width: 40%;
+  float: left;
+  text-align: center;
+  background-color: #F4F4F4;
+  color:#000;
+  padding-bottom: 200px;
+  padding-top: 80px;
+}
+
+section.login{
+    background-color: #F4F4F4;
+    margin-top: 10vh;
+
+}
+
+.login input{
+    border-radius: 50px;
+    padding: 10px;
+    width: 55%;
+    font-size: 22px;
+    margin: 10px;
+
+}
+
+/*Realizado por Junior, Camila e Sabrina*/
+
+
+.menu{
+     background-color: #323232;
+     height: 100vh;
+     float: left;
+     width: 200px;
+     text-align: center;
+
+}
+
+.menu a{
+     color: #fff;
+     text-decoration: none;
+
+
+}
+
+.menu li{
+    background-color: #5A5A5A;
+    margin: 5px;
+    padding: 10px;
+
+
+}
+
+.menu{
+    text-align: left;  
+}
+
+.content{
+    padding: 20px;
+    display: flex;
+}
